@@ -1,0 +1,29 @@
+body {
+    font-family: Unbounded;
+    background-color: #FFF171;
+    color:#2E138F;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Patua One";
+    font-size: 40pt;
+}
+
+header {
+    text-align: center;
+}
+
+#hero, footer {
+    color:#6948DB ;
+    background-color:#DBCD48;
+    text-align: center;
+    padding: 10px;
+}
+
+#hero img {
+    width: 400px;
+}
+
+#bio {
+    text-align: center;
+}
