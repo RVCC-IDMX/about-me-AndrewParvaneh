@@ -58,6 +58,7 @@ ul li:nth-child(5) {
 #gallery {
     border: 5pt dotted #8f8421;
     text-align: center;
+    margin-bottom: 3rem;
 }
 
 #gallery img {
@@ -66,4 +67,23 @@ ul li:nth-child(5) {
 
 #gallery figure{
     text-align: center;
+}
+
+/* Literature */
+#lit {
+    border: 5pt dotted #8f8421;
+}
+
+#lit h2 {
+    margin-left: 3rem;
+}
+
+#lit div {
+    margin-left: 3rem;
+    margin-right: 3rem;
+    max-width: 60rem;
+}
+
+#lit div p, #lit h2 {
+    padding: 1rem;
 }
