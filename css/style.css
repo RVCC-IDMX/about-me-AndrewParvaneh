@@ -1,7 +1,7 @@
 body {
     font-family: Unbounded;
     background-color: #FFF171;
-    color:#2E138F;
+    color:black;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -17,7 +17,7 @@ header {
 }
 
 #hero, footer {
-    color:#6948DB ;
+    color:black;
     background-color:#DBCD48;
     text-align: center;
     padding: 10px;
