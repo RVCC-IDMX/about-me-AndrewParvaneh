@@ -82,21 +82,35 @@ ul li:nth-child(5) {
 /* Literature */
 #lit {
     border: 5pt dotted #8f8421;
-}
-
-#lit h2 {
-    margin-left: 3rem;
-    text-align: center;
+    margin-bottom: 2rem;
 }
 
 #lit div {
-    margin-left: 3rem;
-    margin-right: 3rem;
-    max-width: 60rem;
+    padding: 2rem;
+    max-width: 40rem;
+    margin: 0 auto;
 }
 
-#lit div p, #lit h2 {
-    padding: 1rem;
+#lit div p {
+    padding: 0.3rem 0;
+    clear: both;
+}
+
+#lit h2 {
+    text-align: center;
+    padding-top: 1rem;
+}
+
+/* Dropcaps*/
+
+#lit div p:first-child:first-letter {
+    color: black;
+    background-color:#DBCD48;
+    float: left;
+    font-size: 3em;
+    padding: .25em;
+    line-height: .65;
+    border: 3px inset grey;
 }
 
 
