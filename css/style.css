@@ -161,3 +161,18 @@ ul li:nth-child(5) {
         display: block;
     }
 }
+
+/*Video Section */
+#video {
+    border: 5pt dotted #8f8421;
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+#myVideo {
+    max-width:100%;
+}
+
+#figcaption{
+    text-align: center;
+}
