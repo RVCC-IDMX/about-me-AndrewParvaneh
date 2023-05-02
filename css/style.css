@@ -51,10 +51,10 @@ section#hobbies {
     color:royalblue
 }
 ul li:nth-child(2) {
-    color: red;
+    color: black;
 }
 ul li:nth-child(3) {
-    color: black;
+    color: red;
 }
 ul li:nth-child(4) {
     color:brown
@@ -167,6 +167,7 @@ ul li:nth-child(5) {
     border: 5pt dotted #8f8421;
     text-align: center;
     margin-bottom: 3rem;
+    padding: 1rem;
 }
 
 #myVideo {
@@ -182,4 +183,48 @@ ul li:nth-child(5) {
 
 #formElements {
     display: grid;
+    row-gap: .5em;
+}
+
+#contact {
+    padding: 2rem;
+    max-width:900px;
+    margin: 2rem auto;
+}
+
+#contactus {
+    text-align: center;
+    font-size: 2rem;
+}
+
+fieldset {
+    border: 4px dashed #8f8421;
+}
+
+legend {
+    background-color:#DBCD48 ;
+    padding: .5em;
+
+}
+
+#contact input, #contact textarea, #contact select, #contact button {
+    padding: .5em;
+    font-size: 1rem;
+}
+
+#contact ul {
+    list-style: none;
+    padding: 0px;
+}
+
+#contact li {
+    margin: 1rem;
+
+}
+
+#contact button {
+    max-width: 400px;
+    justify-self: center;
+    width: 50%;
+    background-color: #8f8421;
 }
