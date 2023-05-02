@@ -176,3 +176,10 @@ ul li:nth-child(5) {
 #figcaption{
     text-align: center;
 }
+
+
+/* Contact form */
+
+#formElements {
+    display: grid;
+}
