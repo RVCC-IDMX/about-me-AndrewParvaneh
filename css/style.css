@@ -30,7 +30,9 @@ header {
 /* Hero Section */
 
 #hero img {
-    width: 400px;
+    max-width: 400px;
+    justify-self: center;
+    width: 50%;
 }
 
 /* Bio Section */
