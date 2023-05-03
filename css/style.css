@@ -151,6 +151,14 @@ ul li:nth-child(5) {
         grid-template-columns: 1fr 1fr 1fr;
     }
 
+    #hero, #bio, #hobbies, #lit, #contactus, #contact {
+        font-size: 1.3rem;
+    }
+
+    #gallery, #video {
+        font-size: 2.5rem;
+    }
+
     hr {
         display: none;
     }
