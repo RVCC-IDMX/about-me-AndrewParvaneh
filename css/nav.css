@@ -3,7 +3,7 @@ html {
     scroll-behavior: smooth;
 }
 
-/*background*/
+/*Body*/
 :root {
   --background: #484848;
 }
@@ -12,6 +12,11 @@ html {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
+}
+
+/* add some padding back to rest of page */
+main {
+  padding: 2vw;
 }
 
 /* navigation styles start here */
