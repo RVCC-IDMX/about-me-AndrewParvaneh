@@ -118,6 +118,23 @@ ul li:nth-child(5) {
     text-align: center;
 }
 
+/*Hover effect*/
+.grow { 
+    transition: all .2s ease-in-out; 
+    }
+    
+    .grow:hover { 
+    transform: scale(1.1); 
+    }
+
+.shrink { 
+    transition: all .2s ease-in-out; 
+    }
+        
+    .shrink:hover { 
+    transform: scale(0.9); 
+    }
+    
 /* Literature */
 #lit {
     border: 5pt dotted #8f8421;
@@ -182,6 +199,10 @@ ul li:nth-child(5) {
     #bio, #gallery, #lit {
         padding-top: 6rem;
         padding-bottom: 6rem;
+    }
+
+    #me {
+        padding: 1rem;
     }
 }
 
