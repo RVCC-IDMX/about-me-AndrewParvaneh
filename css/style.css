@@ -60,16 +60,6 @@ header {
     margin-bottom: 2rem;
 }
 
-/* For the hamburger menu to line up*/
-#hero img {
-    padding-top: 5rem;
-}
-#bio, #gallery, #lit {
-    padding-top: 6rem;
-    padding-bottom: 6rem;
-}
-
-
 #hobbies ul li:nth-child(1) {
     color:royalblue
 }
@@ -84,6 +74,15 @@ ul li:nth-child(4) {
 }
 ul li:nth-child(5) {
     color:darkgreen;
+}
+
+/* For the hamburger menu to line up*/
+#hero img {
+    padding-top: 5rem;
+}
+#bio, #gallery, #lit {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
 }
 
 /*My picture Section*/
