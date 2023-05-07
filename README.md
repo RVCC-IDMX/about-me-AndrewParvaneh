@@ -52,6 +52,11 @@ This is a project that I made to show what I have learned in my web Page develop
 
 •	How the major navigation paradigms and mobile navigation paradigms. As well how to make and use a navigation bar.
 
+## Blog 
+I wrote a blog on CSS animation and showed a couple examples of how it works.
+
+## NavBar
+For my navbar used I used a hamburger icon that toggles the menu open and closed when being used in a mobile media state.
 
 ## Roadmap
 
@@ -66,3 +71,19 @@ For the time being I am not open to contributions. I want to see what I can impr
 For my color scheme I did yellowish colors for the background and purplish colors for the text. The purplish colors didn’t end up working out, so I replaced them with black.  The first color had an RGB of 143, 132, 33 and had a hex code of #8F8421. The next color had an RGB of 255, 241, 113 and a hex code of #FFF171. The final of the yellow colors had an RGB of 219, 205, 72 and a hex code of #DBCD48. The first purple color had an RGB of 46, 19, 143 and a hex code of #2E138F. The other purple color had an RGB of 105, 72, 219 and a hex code of #6948DB.
 
 ![Color Scheme](color-scheme.png)
+
+## Citations
+For blog:
+[W3Schools: CSS Animations](https://www.w3schools.com/css/css3_animations.asp)
+[CSS Animation Rocks](https://cssanimation.rocks/)
+[Animista](https://animista.net/)
+[Mozilla Developer Network: CSS Animation](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)
+
+For the hamburger menu:
+[CodePen: CSS Animations - Kevin Powell](https://codepen.io/kevinpowell/pen/jxppmr)
+
+For hover effect: 
+[Travis.Media: How to Make an Item Grow on Hover with CSS](https://travis.media/how-to-make-an-item-grow-on-hover-with-css/)
+
+## License
+All rights reserved. This content is not available for release.
